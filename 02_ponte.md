@@ -5,7 +5,7 @@ title: 2. A Ponte de Ouro: Do IS-LM ao Crescimento Endógeno
 
 # 🌉 2. A Ponte de Ouro: Deixando o IS-LM Dinâmico
 
-Você provavelmente passou as últimas semanas desenhando as curvas **IS** e **LM** no papel, certo?
+Se você cursou Macro 1 provavelmente desenhou as curvas **IS** e **LM** no papel.
 
 $$\text{IS: } Y = C(Y-T) + I(r) + G$$
 $$\text{LM: } \frac{M}{P} = L(Y, i)$$
