@@ -15,7 +15,7 @@ Bem-vindo ao portal oficial da nossa jornada macroeconômica! Este site foi dese
 
 Use o menu abaixo para navegar pelas seções da apresentação:
 
-1. [**A Grande Linha do Tempo**](01_historia.html) — De Adam Smith ao Schumpeteriano Longo Prazo.
+1. [**A Grande Linha do Tempo**](01_historia.html) — De Adam Smith ao Longo Prazo Schumpeteriano.
 2. [**A Ponte de Ouro**](02_ponte.html) — Do IS-LM Estático aos Modelos Neoclássicos de Crescimento.
 3. [**O Economista como Dev/Cientista de Dados**](03_computacional.html) — Por que programar virou o novo "fazer conta".
 4. [**O que diabos é um DSGE?**](04_dsge.html) — Microfundamentação e Choques Aleatórios.
