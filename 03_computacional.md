@@ -5,18 +5,18 @@ title: 3. O Economista Moderno como Cientista Computacional
 
 # 🤖 3. O Economista Moderno: Menos Giz, Mais Código
 
-Se você achou que fazer economia era só ler calhamaços de texto e usar régua no quadro negro... **achou errado!** 
+Se você achou que fazer economia era só ler calhamaços de texto e fazer conta no papel... **achou errado!** 
 
 Hoje, o economista que trabalha no Banco Central, em grandes fundos de investimento ou em Big Techs atua exatamente na intersecção de três grandes pilares:
 
 ### 🧩 A Tríade do Sucesso do Economista de Dados
 
 1. **Teoria Econômica:** Para saber o que os dados significam e fazer as perguntas certas.
-2. **Estatística/Econometria:** Para calibrar parâmetros e usar estimação Bayesiana para limpar o ruído dos dados reais.
-3. **Ciência da Computação:** Para programar e simular algoritmos.
+2. **Estatística/Econometria:** Para estimar parâmetros, testar hipóteses e limpar o ruído dos dados reais.
+3. **Ciência da Computação:** Para programar, calibrar parâmetros e simular algoritmos.
 
 ```
-Teoria Econômica + Estatística Bayesiana + Algoritmos de Computador = Economia Moderna 🚀
+Teoria Econômica + Estatística + Algoritmos de Computador = Economia Moderna 🚀
 ```
 
 ### 💻 Por que precisamos simular?
