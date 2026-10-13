@@ -12,7 +12,7 @@ Hoje, o economista que trabalha no Banco Central, em grandes fundos de investime
 ### 🧩 A Tríade do Sucesso do Economista de Dados
 
 1. **Teoria Econômica:** Para saber o que os dados significam e fazer as perguntas certas.
-2. **Estatística/Econometria:** Para estimar parâmetros, testar hipóteses e limpar o ruído dos dados reais.
+2. **Econometria:** Para estimar parâmetros, testar hipóteses e limpar o ruído dos dados reais.
 3. **Ciência da Computação:** Para programar, calibrar parâmetros e simular algoritmos.
 
 ```
