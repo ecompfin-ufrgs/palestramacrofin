@@ -17,7 +17,7 @@ Use o menu abaixo para navegar pelas seções da apresentação:
 
 1. [**A Grande Linha do Tempo**](01_historia.html) — De Adam Smith ao Longo Prazo Schumpeteriano.
 2. [**A Ponte de Ouro**](02_ponte.html) — Do IS-LM Estático aos Modelos Neoclássicos de Crescimento.
-3. [**O Economista como Dev**](03_computacional.html) — Por que microeconomia, programação e ciência de dados são a moderna economia profissional?
+3. [**O Economista como Dev**](03_computacional.html) — Por que micro, programação e ciência de dados são a moderna economia profissional?
 4. [**O Economista e a IA**](04_ia.html) — Pra quê programar se tem IA?
 5. [**O que diabos é um DSGE?**](05_dsge.html) — Microfundamentação e Choques Aleatórios.
 6. [**O Modelo SAMBA**](06_samba.html) — O Coração Computacional do Banco Central em 10 Mercados.
