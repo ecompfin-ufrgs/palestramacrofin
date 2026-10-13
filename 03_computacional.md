@@ -16,7 +16,7 @@ Hoje, o economista que trabalha no Banco Central, em grandes fundos de investime
 3. **Ciência da Computação:** Para programar, calibrar parâmetros e simular algoritmos.
 
 ```
-Teoria Econômica + Estatística + Algoritmos de Computador = Economia Moderna 🚀
+Teoria Econômica + Econometria + Algoritmos de Computador = Economia Moderna 🚀
 ```
 
 ### 💻 Por que precisamos simular?
