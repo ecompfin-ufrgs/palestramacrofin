@@ -21,4 +21,4 @@ Teoria Econômica + Estatística + Algoritmos de Computador = Economia Moderna �
 
 ### 💻 Por que precisamos simular?
 
-Modelos avançados não possuem uma "fórmula mágica de final de livro". Eles geram sistemas massivos de equações diferenciais. Nós precisamos de **computadores potentes** rodando Python, Julia ou MATLAB para simular o que acontece com o desemprego ou com o dólar se o Banco Central mudar a taxa de juros hoje.
+Modelos avançados não possuem uma "fórmula mágica de final de livro". Eles geram sistemas massivos de equações diferenciais. Nós precisamos de **computadores potentes** rodando Python, Julia, MATLAB ou R para simular o que acontece com o desemprego ou com o dólar se o Banco Central mudar a taxa de juros hoje.
