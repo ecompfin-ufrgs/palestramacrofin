@@ -17,12 +17,11 @@ Use o menu abaixo para navegar pelas seções da apresentação:
 
 1. [**A Grande Linha do Tempo**](01_historia.html) — De Adam Smith ao Longo Prazo Schumpeteriano.
 2. [**A Ponte de Ouro**](02_ponte.html) — Do IS-LM Estático aos Modelos Neoclássicos de Crescimento.
-3. [**O Economista com Dev 1**](03_computacional.html) — Por que programação é a nova economia aplicada?
-4. [**O Economista com Dev 2**](03_ia.html) — Por que o cientista de dados é o novo econometrista?.
-5. [**O Economista como Dev 3**](03_ia.html) — Pra quê programar se tem IA?
-6. [**O que diabos é um DSGE?**](04_dsge.html) — Microfundamentação e Choques Aleatórios.
-7. [**O Modelo SAMBA**](05_samba.html) — O Coração Computacional do Banco Central em 10 Mercados.
-8. [**Conclusão & FAQ**](06_conclusao.html) — Espaço para Dúvidas (10 a 30 minutos).
+3. [**O Economista como Dev**](03_computacional.html) — Por que microeconomia, programação e ciência de dados são a moderna economia profissional?
+4. [**O Economista e a IA**](04_ia.html) — Pra quê programar se tem IA?
+5. [**O que diabos é um DSGE?**](05_dsge.html) — Microfundamentação e Choques Aleatórios.
+6. [**O Modelo SAMBA**](06_samba.html) — O Coração Computacional do Banco Central em 10 Mercados.
+7. [**Conclusão & FAQ**](07_conclusao.html) — Espaço para Dúvidas (10 a 30 minutos).
 
 ---
 *Desenvolvido para alunos de Graduação em Economia. Prepare seu café, abra o terminal e vamos nessa!* ☕💻
