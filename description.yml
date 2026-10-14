@@ -1,6 +1,6 @@
 title: "Vamos todos cair no SAMBA!"
 description: "Macroeconomia, Moeda, Bancos e Finanças na Era da Inteligência de Dados"
-markdown: kramdown
+<!-- markdown: kramdown -->
 mathjax: true
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
